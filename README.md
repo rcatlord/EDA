@@ -1,1 +1,1 @@
-# EDA
+Some exploratory (spatial) data analysis.
